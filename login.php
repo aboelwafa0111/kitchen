@@ -1,6 +1,11 @@
 <!-- ==================================== -->
 <?php include 'header.php';?> 
 <!-- ==================================== -->
+<style type="text/css">
+	.footer-dark {
+		display: none;
+	}
+</style>
 <div class="header header-dark">
 <a href="home.php" class="header-logo">Kitchen</a>
 <a href="tel:0111111" class="header-icon header-icon-2"><i class="ion-ios-telephone"></i></a>
