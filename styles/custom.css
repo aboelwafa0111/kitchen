@@ -105,12 +105,12 @@
 }
 
 .scrolling-menu a {
-    width: 33.333%;
+width: 33.333%;
     float: left;
     font-size: 10px;
     text-align: center;
     color: #fff;
-    margin-top: 3px;
+    line-height: 4.5;
 }
 
 .header-clear-large #page-content-scroll {

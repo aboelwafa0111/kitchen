@@ -442,21 +442,14 @@ $(document).ready(function () {
         setTimeout(function(){
         var swiper_coverflow_thumbnails = new Swiper('.coverflow-thumbnails', {
             pagination: '.swiper-pagination',
-            effect: 'coverflow',
+         
             autoplay:3000,
             autoplayDisableOnInteraction: false,
-            spaceBetween:-30,
+            spaceBetween:30,
             loop:true,
             grabCursor: true,
             centeredSlides: true,
-            slidesPerView: 'auto',
-            coverflow: {
-                rotate: 35,
-                stretch: -50,
-                depth: -190,
-                modifier:1,
-                slideShadows : true
-            }
+            slidesPerView: 'auto'
         });      
         },300);
             

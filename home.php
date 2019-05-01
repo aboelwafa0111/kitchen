@@ -14,28 +14,84 @@
 </video> 
 </div>
 <div class="content-fullscreen badge-store">
-<h4>the latest recipes</h4>
+<h4>Appetizer</h4>
 <em>Lorem Ipsum is simply dummy text </em>
 <div class="coverflow-thumbnails full-top half-bottom">
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></div>
-<div class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></div>
-<div class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></div>
-<div class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></div>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></a>
 </div>
 </div>
 <a href="sub_category.php" class="button button-green button-center button-xs">Read More</a>
 </div>
 <div class="decoration decoration-margins"></div>
 <div class="content-fullscreen badge-store">
-<h4> popular recipes </h4>
+<h4> Soup</h4>
 <em>Lorem Ipsum is simply dummy text </em>
 <div class="coverflow-thumbnails full-top half-bottom">
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></div>
-<div class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></div>
-<div class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></div>
-<div class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></div>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></a>
+</div>
+</div>
+<a href="sub_category.php" class="button button-green button-center button-xs">Read More</a>
+</div>
+<div class="decoration decoration-margins"></div>
+<div class="content-fullscreen badge-store">
+<h4> Breakfast</h4>
+<em>Lorem Ipsum is simply dummy text </em>
+<div class="coverflow-thumbnails full-top half-bottom">
+<div class="swiper-wrapper">
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></a>
+</div>
+</div>
+<a href="sub_category.php" class="button button-green button-center button-xs">Read More</a>
+</div>
+<div class="decoration decoration-margins"></div>
+<div class="content-fullscreen badge-store">
+<h4> Salad</h4>
+<em>Lorem Ipsum is simply dummy text </em>
+<div class="coverflow-thumbnails full-top half-bottom">
+<div class="swiper-wrapper">
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></a>
+</div>
+</div>
+<a href="sub_category.php" class="button button-green button-center button-xs">Read More</a>
+</div>
+<div class="decoration decoration-margins"></div>
+<div class="content-fullscreen badge-store">
+<h4> Main Dish</h4>
+<em>Lorem Ipsum is simply dummy text </em>
+<div class="coverflow-thumbnails full-top half-bottom">
+<div class="swiper-wrapper">
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></a>
+</div>
+</div>
+<a href="sub_category.php" class="button button-green button-center button-xs">Read More</a>
+</div>
+<div class="decoration decoration-margins"></div>
+<div class="content-fullscreen badge-store">
+<h4> Dessert</h4>
+<em>Lorem Ipsum is simply dummy text </em>
+<div class="coverflow-thumbnails full-top half-bottom">
+<div class="swiper-wrapper">
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/4.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/3.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/1.jpg)"><p>title</p></a>
+<a href="video.php" class="swiper-slide" style="background-image:url(images/kitchen/2.jpg)"><p>title</p></a>
 </div>
 </div>
 <a href="sub_category.php" class="button button-green button-center button-xs">Read More</a>

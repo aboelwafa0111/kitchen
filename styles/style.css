@@ -368,10 +368,11 @@ body{
 }
 
 .scrolling-menu a em{
-    padding-left: 28px;
+padding-left: 15px;
     line-height: 45px;
     font-style: normal;
-    font-size: 6px;
+    font-size: 13px;
+
 }
 
 .scrolling-menu a i {
