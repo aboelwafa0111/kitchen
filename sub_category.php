@@ -26,55 +26,55 @@
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/1t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/2t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                 <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/3t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/4t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                 <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/5t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/6t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                 <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                              <a  href="video.php">
                                  <img src="images/pictures/1t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                 <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/2t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                 <p>Title</p>
                               </a>
                            </div>
                            <div class="portfolio-item">
                               <a  href="video.php">
                                  <img src="images/pictures/3t.jpg" alt="img" class="preload-image responsive-image no-bottom">
-                                 <img class="play" src="images/video_play.png" alt="play">
+                                 <p>Title</p>
                               </a>
                            </div>
                         </div>

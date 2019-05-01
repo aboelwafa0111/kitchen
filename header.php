@@ -39,13 +39,13 @@
    <a href="#" class="delete-navigation deploy-bottom"></a>
 <div class="scrolling-menu scrolling-menu-dark">
 <div class="swiper-wrapper">
-<a class="swiper-slide menu-item active-menu-item" href="#"><em>Home</em></a>
-<a class="swiper-slide menu-item" href="#"><em>Appetizer</em></a>
-<a class="swiper-slide menu-item" href="#"><em>Soup</em></a>
-<a class="swiper-slide menu-item" href="#"><em>Breakfast</em></a>
-<a class="swiper-slide menu-item" href="#"><em>Salad</em></a>
-<a class="swiper-slide menu-item" href="#"><em>Main Dish</em></a>
-<a class="swiper-slide menu-item" href="#"><em>Dessert</em></a>
+<a class="swiper-slide menu-item active-menu-item" href="index.php"><em>Home</em></a>
+<a class="swiper-slide menu-item" href="sub_category.php"><em>Appetizer</em></a>
+<a class="swiper-slide menu-item" href="sub_category.php"><em>Soup</em></a>
+<a class="swiper-slide menu-item" href="sub_category.php"><em>Breakfast</em></a>
+<a class="swiper-slide menu-item" href="sub_category.php"><em>Salad</em></a>
+<a class="swiper-slide menu-item" href="sub_category.php"><em>Main Dish</em></a>
+<a class="swiper-slide menu-item" href="sub_category.php"><em>Dessert</em></a>
 </div>
 </div>
    <!-- ============================ header menu ===================== -->
