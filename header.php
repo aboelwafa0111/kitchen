@@ -25,11 +25,11 @@
    <!-- ========================= menu ======================= -->
    <div class="navigation navigation-bottom">
       <a class="t1 active-menu" href="home.php"><i class="bg-red-dark ion-ios-home-outline"></i></a>
-      <a class="t2" href="sub_category.php"><i class="bg-red-light ion-ios-star-outline"></i></a>
-      <a class="t1" href="sub_category.php"><i class="bg-orange-light ion-ios-heart-outline"></i></a>
-      <a class="t2" href="sub_category.php"><i class="bg-orange-dark ion-ios-body-outline"></i></a>
-      <a class="t1" href="sub_category.php"><i class="bg-magenta-light ion-ios-medkit"></i></a>
-      <a class="t2" href="profile.php"><i class="bg-magenta-dark ion-ios-person-outline"></i></a>
+      <a class="t2" href="sub_category.php"><i class="bg-coming_soon ion-ios-star-outline"></i></a>
+      <a class="t1" href="sub_category.php"><i class="bg-coming_soon ion-ios-heart-outline"></i></a>
+      <a class="t2" href="sub_category.php"><i class="bg-coming_soon ion-ios-body-outline"></i></a>
+      <a class="t1" href="sub_category.php"><i class="bg-coming_soon ion-ios-medkit"></i></a>
+      <a class="t2" href="profile.php"><i class="bg-coming_soon ion-ios-person-outline"></i></a>
       <a class="t1" href="login.php"><i class="bg-magenta-dark ion-log-out"></i></a>
    </div>
    <!-- ========================= menu ======================= -->

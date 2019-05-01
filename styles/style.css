@@ -375,6 +375,11 @@ padding-left: 15px;
 
 }
 
+.bg-coming_soon {
+    background-color: rgba(0,0,0,0.5)!important;
+    color: #FFFFFF;
+}
+
 .scrolling-menu a i {
     text-align: center;
     font-size: 20px;
